@@ -7,3 +7,5 @@ title: "index"
 ---
 
 TEST INDEX
+frizille.github.io
+[on being nineteen](./2011-07-29-on-being-nineteen)
