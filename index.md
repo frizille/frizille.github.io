@@ -10,5 +10,5 @@ frizille.github.io
 
 | head 1              | head two          |
 |:--------------------|:----------------------------|
-|[on being nineteen](./2011-07-29-on-being-nineteen) | Recipe 1        |
+|[on being nineteen](./2011-07-29-on-being-nineteen.md) | Recipe 1        |
 |||
