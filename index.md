@@ -8,4 +8,8 @@ title: "index"
 
 TEST INDEX
 frizille.github.io
-[on being nineteen](./2011-07-29-on-being-nineteen)
+
+| head 1              | head two          |
+|:--------------------|:----------------------------|
+|[on being nineteen](./2011-07-29-on-being-nineteen) | Recipe 1        |
+|||
