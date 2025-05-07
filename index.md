@@ -8,7 +8,7 @@ layout: default
 TEST INDEX
 frizille.github.io
 
-| head 1              | head two          |
+| Blog Posts             | head two          |
 |:--------------------|:----------------------------|
 | [on being nineteen](./_posts/2011-07-29-on-being-nineteen.md) | Recipe 1        |
 |||
